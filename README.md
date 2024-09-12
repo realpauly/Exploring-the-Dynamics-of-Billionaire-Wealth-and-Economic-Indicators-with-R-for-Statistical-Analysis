@@ -1,6 +1,6 @@
 # Exploring the Dynamics of Billionaire Wealth and Economic Indicators
 
-![Exploring the dynamics of Billionaire wealth and Economic Indicators](https://myoctocat.com/assets/images/base-octocat.svg)
+![Exploring the dynamics of Billionaire wealth and Economic Indicators](https://github.com/realpauly/Exploring-the-Dynamics-of-Billionaire-Wealth-and-Economic-Indicators-with-R-for-Statistical-Analysis/blob/main/billionaire.jpg)
 
 # Introduction
 This project investigates the relationship between billionaire wealth accumulation and various economic indicators such as GDP, tax revenue, and the Consumer Price Index (CPI). The analysis explores global patterns in wealth distribution and economic factors driving wealth disparities.
@@ -22,19 +22,19 @@ The dataset, sourced from Kaggle, was cleaned and transformed using R. The clean
 The project includes:
 Descriptive Statistics and EDA: Summarizing billionaire demographics, industries, and regional wealth patterns.
 
-![Exploring the dynamics of Billionaire wealth and Economic Indicators](https://myoctocat.com/assets/images/base-octocat.svg)
+![Exploring the dynamics of Billionaire wealth and Economic Indicators](https://github.com/realpauly/Exploring-the-Dynamics-of-Billionaire-Wealth-and-Economic-Indicators-with-R-for-Statistical-Analysis/blob/main/png1.png)
 
 Correlation Analysis: Exploring relationships between wealth and economic indicators.
 
-![Exploring the dynamics of Billionaire wealth and Economic Indicators](https://myoctocat.com/assets/images/base-octocat.svg)
+![Exploring the dynamics of Billionaire wealth and Economic Indicators](https://github.com/realpauly/Exploring-the-Dynamics-of-Billionaire-Wealth-and-Economic-Indicators-with-R-for-Statistical-Analysis/blob/main/png2.png)
 
 Regression Analysis: A multiple regression model identifies significant predictors of billionaire wealth while controlling for key covariates.
 
-![Exploring the dynamics of Billionaire wealth and Economic Indicators](https://myoctocat.com/assets/images/base-octocat.svg)
+![Exploring the dynamics of Billionaire wealth and Economic Indicators](https://github.com/realpauly/Exploring-the-Dynamics-of-Billionaire-Wealth-and-Economic-Indicators-with-R-for-Statistical-Analysis/blob/main/png3.png)
 
 Diagnostic Tests: Checking assumptions of linearity, normality, homoscedasticity, and multicollinearity for regression models.
 
-![Exploring the dynamics of Billionaire wealth and Economic Indicators](https://myoctocat.com/assets/images/base-octocat.svg)
+![Exploring the dynamics of Billionaire wealth and Economic Indicators](https://github.com/realpauly/Exploring-the-Dynamics-of-Billionaire-Wealth-and-Economic-Indicators-with-R-for-Statistical-Analysis/blob/main/png4.png)
 
 # Conclusion and Recommendation
 The analysis highlights key economic factors influencing billionaire wealth accumulation, with GDP and tax revenue showing notable associations. These insights can inform policy decisions around wealth inequality and economic policy. Further research should explore additional factors such as political influence and intergenerational wealth transfer.
